@@ -62,6 +62,8 @@
 
 # Animações de texto com CSS: 
 
+[Animate.css (biblioteca)](https://animate.style/)
+
 [Texto deslizante | Acervo Lima](https://acervolima.com/como-criar-texto-deslizante-para-revelar-animacao-usando-html-e-css/)
 
 [Animações com Transition e Animation | Alura](https://www.alura.com.br/artigos/css-animacoes-com-transitions-animations?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2Hfr7EzD3v3M5VWK01wrm6P-_srIxO4ENKaQVBC6cvEKUpvlzqJJx8aAlUHEALw_wcB)
