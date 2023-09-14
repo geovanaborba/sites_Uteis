@@ -26,6 +26,8 @@
 
 [Text Shadow CSS Generator](https://cssgenerator.org/text-shadow-css-generator.html)
 
+[Hex to RGBA Converter](https://rgbacolorpicker.com/hex-to-rgba)
+
 [WebCode Tools](https://webcode.tools)
 
 <br>
