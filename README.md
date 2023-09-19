@@ -165,6 +165,8 @@
 
 [Get Emoji](https://getemoji.com/)
 
+[Símbolos](https://symbl.cc/pt/)
+
 <br>
 
 # Utilidades 
