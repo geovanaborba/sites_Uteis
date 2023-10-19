@@ -10,6 +10,8 @@
 
 * [CSS Tricks](https://css-tricks.com/)
 
+* [CSS Background](https://www.devmedia.com.br/css-background/38313)
+  
 <br>
 
 # Cores e filtros 
