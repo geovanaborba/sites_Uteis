@@ -34,6 +34,14 @@
 
 <br>
 
+# Clip Path Generator
+
+[Clippy — CSS clip-path maker](https://bennettfeely.com/clippy/)
+
+[CSS Clip-Path Generator](https://www.cssportal.com/css-clip-path-generator/)
+
+<br>
+
 # Efeitos de onda e divisão
 
 [Get Waves - gerador de ondas](https://getwaves.io/)
