@@ -92,6 +92,8 @@
 
 [Animation Buttons | by @Yuhomyan on Codepen](https://codepen.io/yuhomyan/pen/OJMejWJ)
 
+[Gerador de botões com CSS | by @Jh3y on Codepen](https://codepen.io/jh3y/pen/vYbyKeL)
+
 <br>
 
 # API's & Plugins
