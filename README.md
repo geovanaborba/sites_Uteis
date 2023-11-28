@@ -2,7 +2,7 @@
 
 <br> 
 
-# Guias
+# 📚 Guias
 
 * [Guia Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
@@ -14,7 +14,7 @@
   
 <br>
 
-# Cores e filtros 
+# 🎨 Cores e filtros 
 
 [Encycolorpedia](https://encycolorpedia.pt/)
 
@@ -34,7 +34,7 @@
 
 <br>
 
-# Clip Path Generator
+# 📐 Clip Path Generator
 
 [Clippy — CSS clip-path maker](https://bennettfeely.com/clippy/)
 
@@ -42,7 +42,7 @@
 
 <br>
 
-# Efeitos de onda e divisão
+# 🌊 Efeitos de onda e divisão
 
 [Get Waves - gerador de ondas](https://getwaves.io/)
 
@@ -50,7 +50,7 @@
 
 <br>
 
-# Gerador de formas
+# 🔻 Gerador de formas
 
 [CSS Complex Shapes - gerador de formas](https://bennettfeely.com/clippy/)
 
@@ -58,7 +58,7 @@
 
 <br>
 
-# Outras customizações
+# 🖌 Outras customizações
 
 [Custom Scrollbar Maker](https://codepen.io/stephenpaton-tech/full/JjRvGmY)
 
@@ -74,7 +74,7 @@
 
 <br>
 
-# Animações de texto com CSS: 
+# ✨ Animações de texto com CSS
 
 [Animate.css (biblioteca)](https://animate.style/)
 
@@ -90,7 +90,7 @@
 
 <br>
 
-# Botões 
+# 🕹 Botões 
 
 [Animation Buttons | by @Yuhomyan on Codepen](https://codepen.io/yuhomyan/pen/OJMejWJ)
 
@@ -98,7 +98,7 @@
 
 <br>
 
-# API's & Plugins
+# 🛠 API's & Plugins
 
 [Formspree - envio de forms para email](https://formspree.io/)
 
@@ -129,7 +129,7 @@
 
 <br>
 
-# Ilustrações / GIFs:
+# 🔶 Ilustrações / GIFs
 
 [unDraw](undraw.co)
 
@@ -142,7 +142,7 @@
 
 <br>
 
-# Vetores / banco de imagens
+# 🖼 Vetores / banco de imagens
 
 [Free Vector](https://all-free-download.com/free-vector/)
 
@@ -157,7 +157,7 @@
 
 <br>
 
-# Badges, Icons & Emojis 
+# 🚩 Badges, Icons & Emojis 
 
 [Font Awesome](https://fontawesome.com/)
 
@@ -183,7 +183,7 @@
 
 <br>
 
-# Utilidades 
+# 🧰 Utilidades 
 
 [Carbon - crie imgs do seu código](https://carbon.now.sh/)
 
@@ -201,7 +201,7 @@
 
 <br>
 
-# Testes 
+# ⚙️ Testes 
 
 [PageSpeed Insights Google Developers](https://pagespeed.web.dev/?hl=pt-BR)
 
