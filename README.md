@@ -152,6 +152,8 @@
 
 [Freepik](https://br.freepik.com/)
 
+[Flaticon Icons](https://www.flaticon.com/br/)
+
 [Pexels](https://www.pexels.com/pt-br/)
 
 
