@@ -48,6 +48,8 @@
 
 [Shape Divider - gerador de divisória/ondas](https://www.shapedivider.app/)
 
+[Get Waves, Tinter, Shapes and Meshy Gradient](https://svgwave.in/)
+
 <br>
 
 # 🔻 Gerador de formas
