@@ -179,6 +179,8 @@
 
 <hr>
 
+[Skill Icons](https://skillicons.dev/)
+
 [Emojipedia](https://emojipedia.org/)
 
 [Get Emoji](https://getemoji.com/)
