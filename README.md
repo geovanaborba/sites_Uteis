@@ -6,6 +6,8 @@
 
 * [Guia Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+* [Guia Grid](https://www.treinaweb.com.br/blog/css-grid-um-guia-interativo-parte-1-containers#google_vignette)
+
 * [Grid Layout](https://grid.malven.co/)
 
 * [CSS Tricks](https://css-tricks.com/)
