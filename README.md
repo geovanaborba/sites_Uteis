@@ -94,6 +94,24 @@
 
 <br>
 
+# 🎇 Animações JS 
+
+[Particle.js](https://vincentgarreau.com/particles.js/) - *criação de partículas.*
+
+[Typed.js](https://mattboldt.com/demos/typed-js/) - *digita texto na velocidade configurada.*
+
+[Tilt.js](https://gijsroge.github.io/tilt.js/) - *cria um pequeno efeito de inclinação em um elemento.*
+
+[Granim.js](https://sarcadass.github.io/granim.js/) - *cria animações de gradientes.*
+
+[Scroll Reveal](https://scrollrevealjs.org/) - *anima elementos na página à medida que você faz scroll.*
+
+[Gsap](https://gsap.com/) - *anima cores, beziers, propriedades CSS, arrays e muito mais.*
+
+[Mo.js](https://mojs.github.io/) - *cria movimento em gráficos.*
+
+<br>
+
 # 🕹 Botões 
 
 [Animation Buttons | by @Yuhomyan on Codepen](https://codepen.io/yuhomyan/pen/OJMejWJ)
