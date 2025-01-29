@@ -118,6 +118,8 @@
 
 [Gerador de botões com CSS | by @Jh3y on Codepen](https://codepen.io/jh3y/pen/vYbyKeL)
 
+[Botões CSS](https://cssbuttons.app/)
+
 <br>
 
 # 🛠 API's & Plugins
